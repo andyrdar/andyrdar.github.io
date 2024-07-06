@@ -1,7 +1,6 @@
 
-# Hydejack Starter Kit
-
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+# andyrdar.github.io
+Version control for personal website
 
 ## Quick Start
 ### Running locally
@@ -14,8 +13,3 @@ A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.
 ## What's next?
 * Open files and read the comments
 * Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
-
-# andyrdar.github.io
-Version control for personal website
-
