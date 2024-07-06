@@ -13,3 +13,7 @@ Version control for personal website
 ## What's next?
 * Open files and read the comments
 * Read the [docs](https://hydejack.com/docs/)
+
+## Abbreviations
+**mtc** = maintenance
+**bug** = bug correction of previous mistake
