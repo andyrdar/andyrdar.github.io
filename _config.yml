@@ -359,10 +359,10 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://github.com/andyrdar
+social:
+  name:                <firstname> <lastname>
+  links:
+     - https://github.com/andyrdar
 
 
 # Plugin Configs
