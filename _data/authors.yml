@@ -26,8 +26,8 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    github:          <andyrdar>
-    email:           <ardargence@gmail.com>
+    github:          andyrdar
+    email:           ardargence@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -38,7 +38,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       <andreaaruizd>
+    instagram:       andreaaruizd
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -56,7 +56,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        <ardargence>
+    linkedin:        ardargence
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
