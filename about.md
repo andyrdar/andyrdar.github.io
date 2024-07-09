@@ -15,28 +15,16 @@ redirect_from:
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <p>My professional aspirations are pursuing a doctoral study in cognitive computational neuroscience. I am currently fascinated by how cognition is shaped by interactions between neural circuits, specifically by how electrophysiological signals relating to cognitive processes can inform how these interactions occur at the circuit-level. To prepare for a research career in neuroscience and equip myself with the necessary knowledge and skills, I am majoring in cognitive and behavioral neuroscience.</p>
+    <p>My professional aspirations are pursuing a doctoral study in cognitive computational neuroscience. I am currently fascinated by how cognition is shaped by interactions between neural circuits, specifically by how electrophysiological signals relating to cognitive processes can inform how these interactions occur at the circuit-level. </p>
+    
+    <p>To prepare for a research career in neuroscience and equip myself with the necessary knowledge and skills, I am majoring in cognitive and behavioral neuroscience.</p>
   </div>
   <div style="flex: 0 0 300px; margin-left: 20px;">
-    <img src="assets/img/blog/ardargence_ard2x.jpg" alt="Andrea Ruiz D'Argence" style="max-width: 100%;">
+    <img src="https://andyrdar.github.io/assets/img/blog/ardargence_ard2x.jpg" alt="Andrea Ruiz D'Argence" style="max-width: 70%;">
   </div>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-My professional aspirations are pursuing a doctoral study in cognitive computational neuroscience. I am currently fascinated by how cognition is shaped by interactions between neural circuits, specifically by how electrophysiological signals relating to cognitive processes can inform how these interactions occur at the circuit-level. To prepare for a research career in neuroscience and equip myself with the necessary knowledge and skills, I am majoring in cognitive and behavioral neuroscience. 
-
-![Screenshot](assets/img/blog/ardargence_ard2x.jpg){:.lead width="537" height="806" loading="lazy"}
+ <!-- ![Screenshot](assets/img/blog/ardargence_ard2x.jpg){:.lead width="537" height="806" loading="lazy"} -->
 
 My views on the value of diversity in science have been shaped by a combination of personal experiences, observations of global disparities, and active efforts to bridge gaps in knowledge and opportunities. These experiences fuel my commitment to promoting diversity and inclusion in science.
 
