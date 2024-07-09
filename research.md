@@ -5,8 +5,6 @@ description: >
   This is a featured category, which have their own page. Specifically for the research page. 
   description: 
 hide_description: true
-redirect_from:
-  - /download/
 ---
 
 # Research
