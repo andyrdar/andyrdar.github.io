@@ -3,19 +3,30 @@ layout:     plain
 sitemap:    false
 ---
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Protected Section</title>
+  <title>AFTERDARK</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/hydejack.css">
 </head>
 <body>
-  <script>
-    var password = prompt("Please enter the password:");
-    if (password === "123") {
-      document.write("<h1>Welcome to AFTERDARK!</h1>");
-      // this page will have fun memories and pictures maybe collages or something silly.
-    } else {
-      document.write("<h1>Incorrect password. Access denied.</h1>");
-    }
-  </script>
+  <div id="content" style="display: none;">
+    <h1>Welcome to the AFTERDARK section!</h1>
+    <!-- Add your protected content here -->
+  </div>
+  <div id="login">
+    <script>
+      var password = prompt("Please enter the password:");
+      if (password === "123") {
+        document.getElementById('content').style.display = 'block';
+        document.getElementById('login').style.display = 'none';
+      } else {
+        document.write("<h1>Incorrect password. Access denied.</h1>");
+      }
+    </script>
+  </div>
 </body>
+</html>
