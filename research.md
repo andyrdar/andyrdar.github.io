@@ -45,7 +45,7 @@ etc etc etc
 <em>July 2021 - August 2021</em>
 {:.faded}
 
-I was one of four recipients in Mexico to be awarded the prestigious International Science Summer Institute (ISSI) scholarship by the Weizmann Institute of Science in Rehovot, Israel.
+I was one of four recipients in Mexico to be awarded the prestigious <a href="https://davidson.weizmann.ac.il/en/programs/issi" target="_blank" rel="noopener noreferrer"> International Science Summer Institute (ISSI) </a> scholarship by the Weizmann Institute of Science in Rehovot, Israel.
 Under the guidance of <a href="https://www.weizmann.ac.il/mcb/tirosh/group-members" target="_blank" rel="noopener noreferrer">Dr. Michael Mints</a>, our team explored cellular heterogeneity in viral-driven cancers
 
 

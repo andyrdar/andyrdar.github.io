@@ -52,12 +52,18 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
+  # - title:             Example
+  #   url:               /example/
+  # - title:             Documentation
+  #   url:               /docs/
   - title:             Research
     url:               /research/
+  - title:             Outreach
+    url:               /outreach/
+  - title:             Projects
+    url:               /projects/
+  - title:             CV
+    url:               /assets/ARD_CV.pdf
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -68,7 +74,8 @@ legal:
     url:               /NOTICE/
   - title:             CHANGELOG
     url:               /CHANGELOG/
-
+  - title:             AFTERDARK
+    url:               /AFTERDARK/
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2024. All rights reserved.
 

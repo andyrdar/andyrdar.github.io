@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:              <Andrea> <Ruiz D'Argence>
-  email:             <ardargence@gmail.com>
+  email:             ardargence@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -13,14 +13,14 @@ author1:
     My long-term goal is to improve human experience with novel neurotechnology strategies 
     all while opening new possibilities to students from disadvantaged backgrounds.
 
-  # This photo will be used in the about section
-  picture:
-    path:            assets\img\blog\ardargence_lowres2.jpg
+  ## This photo will be used in the about section
+  # picture:
+  #   path:            assets/img/blog/ardargence_lowres2.jpg
 
-    # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            assets\img\blog\ardargence_ard_lowres.jpg
-      2x:            assets\img\blog\ardargence_ard_lowres.jpg
+  #   # srcset is optional, but can be used to provide higher res versions for retina displays
+  #   srcset:
+  #     1x:            assets\img\blog\ardargence_ard_lowres.jpg
+  #     2x:            assets\img\blog\ardargence_ard_lowres.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
