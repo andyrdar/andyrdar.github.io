@@ -46,7 +46,7 @@ etc etc etc
 {:.faded}
 
 I was one of four recipients in Mexico to be awarded the prestigious International Science Summer Institute (ISSI) scholarship by the Weizmann Institute of Science in Rehovot, Israel.
-Under the guidance of <a href="https://www.weizmann.ac.il/mcb/tirosh/group-members">Dr. Michael Mints</a>, our team explored cellular heterogeneity in viral-driven cancers
+Under the guidance of <a href="https://www.weizmann.ac.il/mcb/tirosh/group-members" target="_blank">Dr. Michael Mints</a>, our team explored cellular heterogeneity in viral-driven cancers
 
 
 

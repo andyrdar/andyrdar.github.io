@@ -15,10 +15,12 @@ redirect_from:
 
 My professional aspirations are pursuing a doctoral study in cognitive computational neuroscience. I am currently fascinated by how cognition is shaped by interactions between neural circuits, specifically by how electrophysiological signals relating to cognitive processes can inform how these interactions occur at the circuit-level. To prepare for a research career in neuroscience and equip myself with the necessary knowledge and skills, I am majoring in cognitive and behavioral neuroscience. 
 
-{:.lead}
+![Screenshot](assets/img/blog/ardargence_ard2x.jpg){:.lead width="537" height="806" loading="lazy"}
 
 My views on the value of diversity in science have been shaped by a combination of personal experiences, observations of global disparities, and active efforts to bridge gaps in knowledge and opportunities. These experiences fuel my commitment to promoting diversity and inclusion in science.
 
+
+idk what this is
 1. this list will be replaced by the toc
 {:toc .large-only}
 
