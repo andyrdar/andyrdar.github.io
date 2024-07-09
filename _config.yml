@@ -36,14 +36,15 @@ keywords:              [neuroscience, science, andrea, ruiz]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/blog/ardargence_ard_squared2.jpg
-favicon:               /assets/icons/ardargence_logo-removebg.ico
+logo:                  /assets/img/blog/ardargence_hs.jpg
+favicon:               /assets/icons/ardargence_logo.ico
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                <Andrea> <Ruiz D'Argence>
-  email:               <ardargence@gmail.com>
+  email:               ardargence@gmail.com
+  picture:             /assets/img/blog/ardargence_ard_squared2.jpg
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -91,7 +92,8 @@ remote_theme: hydecorp/hydejack@v9
  
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/blog/ardargence_bkg.jpg
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(225, 137, 161)
+
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
