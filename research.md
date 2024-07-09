@@ -1,5 +1,5 @@
 ---
-layout:     research
+layout:     about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   This is a featured category, which have their own page. Specifically for the research page. 
