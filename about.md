@@ -9,7 +9,9 @@ redirect_from:
   - /download/
 ---
 
-# About
+# About me
+
+<em>computational neuroscientist || science communicator || researcher || innovator </em>
 
 <!--author-->
 
@@ -20,7 +22,7 @@ redirect_from:
     <p>To prepare for a research career in neuroscience and equip myself with the necessary knowledge and skills, I am majoring in cognitive and behavioral neuroscience.</p>
   </div>
   <div style="flex: 0 0 300px; margin-left: 20px;">
-    <img src="https://andyrdar.github.io/assets/img/blog/ardargence_ard2x.jpg" alt="Andrea Ruiz D'Argence" style="max-width: 70%;">
+    <img src="https://andyrdar.github.io/assets/img/blog/ardargence_ard2x.jpg" alt="Andrea Ruiz D'Argence" style="max-width: 80%;">
   </div>
 </div>
 

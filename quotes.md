@@ -1,0 +1,3 @@
+Quotes ...
+
+why else are we here if not to live with unreasonable passion for things
