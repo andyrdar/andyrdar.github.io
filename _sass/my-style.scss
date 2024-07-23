@@ -18,13 +18,17 @@
   text-decoration: underline;
 }
 
+.normal-link:hover {
+  color: #833F51;
+}
+
 hr.solid {
   border-top: 1px solid #EBEBEB;
 }
 
 .fixed-size-box {
   width: 600px; /* Set the width of the box */
-  height: 200px; /* Set the height of the box */
+  height: 75px; /* Set the height of the box */
   background-color: #EBEBEB; /* Change this to your desired background color */
   display: flex;
   justify-content: center;
