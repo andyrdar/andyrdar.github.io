@@ -22,11 +22,20 @@ hr.solid {
   border-top: 1px solid #EBEBEB;
 }
 
-.textbox {
-  width: 200px;
-  height: 75px;
-  padding: 10px -10px 10px 10px;
-  border: 5px solid #EBEBEB;
+.fixed-size-box {
+  width: 600px; /* Set the width of the box */
+  height: 200px; /* Set the height of the box */
+  background-color: #EBEBEB; /* Change this to your desired background color */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto; /* Center the box horizontally */
+  border-radius: 10px; /* Optional: to give the box rounded corners */
+  text-align: center;
+}
+
+.fixed-size-box p {
   margin: 0;
-  fill: #EBEBEB;
+  color: #333; /* Change this to your desired text color */
+  font-size: 115%;
 }
