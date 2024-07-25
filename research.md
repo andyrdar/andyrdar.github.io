@@ -8,7 +8,7 @@ sitemap:    false
 * this list will be replaced by the toc
 {:toc .large-only}
 
-## [Dr. Brad Voytek]({{ site.baseurl }}/experiences/_labs/voytek)
+## [Dr. Brad Voytek]({{ site.baseurl }}/experiences/voytek)
 
 <em>August 2022 - Present</em>
 {:.faded}
