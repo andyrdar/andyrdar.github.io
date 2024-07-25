@@ -8,7 +8,7 @@ sitemap:    false
 * this list will be replaced by the toc
 {:toc .large-only}
 
-## Dr. Brad Voytek
+## [Dr. Brad Voytek](https://andyrdar.github.io/research/_labs/voytek/)
 
 <em>August 2022 - Present</em>
 {:.faded}
