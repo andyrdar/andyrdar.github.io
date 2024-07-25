@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: page
 title: Voytek
 description: >
   Not necessary.
