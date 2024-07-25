@@ -8,7 +8,7 @@ sitemap:    false
 * this list will be replaced by the toc
 {:toc .large-only}
 
-## [Dr. Brad Voytek]({{ site.baseurl }}/experiences/voytek)
+## [Dr. Brad Voytek]({{ site.baseurl }}/research/voytek)
 
 <em>August 2022 - Present</em>
 {:.faded}
@@ -20,7 +20,7 @@ Joining the Voytek lab was the breaking point in helping shape my desire to purs
 The collaborative environment at the Voytek Lab and translational approaches in computational neuroscience ignited in me a passion for research in cognition. Learning in an environment where open science is encouraged, creativity flourishes as we challenge our ideas with a meticulous eye. The Voytek Lab showed me a new face of research I had not seen before, reinforcing what type of researcher I aspire to be.
 
 
-## [Dr. Kay Tye]]({{ site.baseurl }}/experiences/tye)
+## [Dr. Kay Tye]({{ site.baseurl }}/research/tye)
 
 <em>October 2023 - July 2024</em>
 {:.faded}
