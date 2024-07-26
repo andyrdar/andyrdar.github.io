@@ -18,11 +18,9 @@ sitemap:    false
 <span style="color:#AAA7A6; font-style:italic;">electrophysiology, neural oscillations, vision</span>
 
 <hr class="solid" style="color: #8f7272;">
-
 ## [Undergraduate research with Dr. Kay Tye]({{ site.baseurl }}/research/tye)
 <em>Salk Institute for Biological Studies</em>
 {:.faded}
-<br>
 etc etc etc 
 <br>
 <span style="color:#833F51; font-style:italic; font-weight:700">Keywords: </span>
