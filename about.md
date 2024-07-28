@@ -11,6 +11,7 @@ redirect_from:
 
 # About me
 
+<img alt="Andrea Ruiz D'Argence" src="https://andyrdar.github.io/assets/img/blog/ardargence_collage25px.png" style="max-width: 100%;" />
 <p style="margin-left:5%; text-align: center; color: #AAA7A6; font-style: italic; font-family: 'Segoe UI';">
   <br>computational neuroscientist || science communicator || researcher || aspiring poet <br>
 </p>
