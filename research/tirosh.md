@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Tye
+title: Tirosh
 # <!-- description: >
 #  Not necessary. -->
 sitemap: false
 ---
-experience in tye lab
+experience in tirosh lab

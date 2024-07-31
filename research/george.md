@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Tye
+title: George
 # <!-- description: >
 #  Not necessary. -->
 sitemap: false
 ---
-experience in tye lab
+experience in george lab

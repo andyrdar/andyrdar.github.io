@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Voytek
-description: >
-  Not necessary.
+# description: >
+#  Not necessary.
 sitemap: false
 ---
 
