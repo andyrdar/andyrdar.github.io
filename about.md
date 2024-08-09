@@ -16,7 +16,7 @@ redirect_from:
   <br>computational neuroscientist || science communicator || researcher || aspiring poet <br>
 </p>
 
-Hi! I'm Andrea
+**Hi, I'm Andrea!**
 
 <!--author-->
 
@@ -24,7 +24,7 @@ Hi! I'm Andrea
   <div style="flex: 1;">
     <p>My professional aspirations are pursuing a doctoral study in cognitive computational neuroscience. I am currently fascinated by how cognition is shaped by interactions between neural circuits, specifically by how electrophysiological signals relating to cognitive processes can inform how these interactions occur at the circuit-level. </p>
     
-    <p>To prepare for a research career in neuroscience and equip myself with the necessary knowledge and skills, I am majoring in cognitive and behavioral neuroscience.</p>
+    <p>To prepare for a research career in neuroscience and equip myself with the necessary knowledge and skills, I am majoring in cognitive and behavioral neuroscience at the <a href="https://cogsci.ucsd.edu/undergraduates/major/cbn.html" target="_blank" rel="noopener noreferrer">University of California, San Diego<a>.</p>
   </div>
   <div style="flex: 0 0 300px; margin-left: 20px;">
     <img src="https://andyrdar.github.io/assets/img/blog/ardargence_ard2x.jpg" alt="Andrea Ruiz D'Argence" style="max-width: 80%;">
