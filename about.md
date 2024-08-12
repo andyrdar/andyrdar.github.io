@@ -16,20 +16,24 @@ redirect_from:
   <br>computational neuroscientist || science communicator || researcher || aspiring poet <br>
 </p>
 
-**Hi, I'm Andrea!**
+<p style="color: #833F51; font-weight:bold">**Hi, I'm Andrea!</p>
 
 <!--author-->
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <p>My professional aspirations are pursuing a doctoral study in cognitive computational neuroscience. I am currently fascinated by how cognition is shaped by interactions between neural circuits, specifically by how electrophysiological signals relating to cognitive processes can inform how these interactions occur at the circuit-level. </p>
+    <p>My professional aspirations are pursuing a doctoral study in cognitive computational neuroscience to further create visual cortical prosthetics that will aid in <b>vision restoration.</b></p>
     
-    <p>To prepare for a research career in neuroscience and equip myself with the necessary knowledge and skills, I am majoring in cognitive and behavioral neuroscience at the <a href="https://cogsci.ucsd.edu/undergraduates/major/cbn.html" target="_blank" rel="noopener noreferrer">University of California, San Diego<a>.</p>
+    <p>How does the brain encode what we see? Can we reverse-engineer this process to evoke images through electrical stimulation? I am fascinated by how cognition is shaped by interactions between neural circuits, specifically by how electrophysiological signals relating to cognitive processes can inform how these interactions occur at the circuit-level.</p>
   </div>
   <div style="flex: 0 0 300px; margin-left: 20px;">
     <img src="https://andyrdar.github.io/assets/img/blog/ardargence_ard2x.jpg" alt="Andrea Ruiz D'Argence" style="max-width: 80%;">
   </div>
 </div>
+
+As of now, I am majoring in cognitive and behavioral neuroscience at the <a href="https://cogsci.ucsd.edu/undergraduates/major/cbn.html" target="_blank" rel="noopener noreferrer">University of California, San Diego<a> and studying non-oscillatory neural activity as a research assistant at lab of Dr. Brad Voytek. <a href="https://voyteklab.com/" target="_blank" rel="noopener noreferrer">
+
+Growing up in southern Mexico I was surrounded by nature and culture, 
 
  <!-- ![Screenshot](assets/img/blog/ardargence_ard2x.jpg){:.lead width="537" height="806" loading="lazy"} -->
 

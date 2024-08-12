@@ -8,6 +8,8 @@ sitemap:    false
 * this list will be replaced by the toc
 {:toc .large-only}
 
+Before listing the experiences, talk about open-source, making science transparent and accessible. Alos perhaps highlight your publication! And a note saying See you at SfN 2024!
+
 ## [Undergraduate research with Dr. Brad Voytek]({{ site.baseurl }}/research/voytek)
 <em>University of Califronia, San Diego</em>
 {:.faded}
