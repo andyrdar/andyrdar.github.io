@@ -1,0 +1,34 @@
+---
+layout:     plain
+sitemap:    false
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SUNLITE</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/hydejack.css">
+</head>
+<body>
+  <div id="content" style="display: none;">
+    <h1>Welcome to the SUNLITE section!</h1>
+    <!-- Add your protected content here -->
+    include content here
+  
+  </div>
+  <div id="login">
+    <script>
+      var password = prompt("Please enter the password:");
+      if (password === "456") {
+        document.getElementById('content').style.display = 'block';
+        document.getElementById('login').style.display = 'none';
+      } else {
+        document.write("<h1>Incorrect password. Access denied.</h1>");
+      }
+    </script>
+  </div>
+</body>
+</html>
