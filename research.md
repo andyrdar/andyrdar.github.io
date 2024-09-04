@@ -13,7 +13,8 @@ Before listing the experiences, talk about open-source, making science transpare
 ## [Undergraduate research with Dr. Brad Voytek]({{ site.baseurl }}/research/voytek)
 <em>University of Califronia, San Diego</em>
 {:.faded}
-1-2 sentence summary of what I studied
+Waveform analysis of open-source electrophysiological recordings to decode the neural mechanisms of visual
+processing
 <br>
 <span style="color:#833F51; font-style:italic;  font-weight:700">Keywords: </span>
 <span style="color:#AAA7A6; font-style:italic;">electrophysiology, neural oscillations, vision</span>
@@ -22,7 +23,9 @@ Before listing the experiences, talk about open-source, making science transpare
 ## [Undergraduate research with Dr. Kay Tye]({{ site.baseurl }}/research/tye)
 <em>Salk Institute for Biological Studies</em>
 {:.faded}
-etc etc etc 
+Application of multidisciplinary approaches (optogenetics, immunohistochemistry, pose estimation) to study the
+time course of social isolation and dopamine dynamics in the medial prefrontal cortex during social contact
+following isolation. 
 <br>
 <span style="color:#833F51; font-style:italic; font-weight:700">Keywords: </span>
 <span style="color:#AAA7A6; font-style:italic;">systems neuroscience, social isolation, dopamine</span>
@@ -31,7 +34,7 @@ etc etc etc
 ## [Summer internship with Dr. Mary Teena Joy]({{ site.baseurl }}/research/joy)
 <em>The Jackson Laboratory</em>
 {:.faded}
-etc etc etc 
+Development of a pipeline to analyze cortex-wide in-vivo two-photon calcium imaging from a motor task in mice. 
 <br>
 <span style="color:#833F51; font-style:italic; font-weight:700">Keywords: </span>
 <span style="color:#AAA7A6; font-style:italic;">stroke, motor control, neural circuits</span>
@@ -40,7 +43,9 @@ etc etc etc
 ## [Undergraduate research with Dr. Olivier George]({{ site.baseurl }}/research/george)
 <em>University of Califronia, San Diego</em>
 {:.faded}
-etc etc etc 
+ergraduate Researcher - Advisor: Dr. Olivier George
+Characterization of cocaine or oxycodone addiction-like behavior, and analysis of nicotinic activation of brain
+regions in rats.
 <br>
 <span style="color:#833F51; font-style:italic; font-weight:700">Keywords: </span>
 <span style="color:#AAA7A6; font-style:italic;">addiction, behavior, self-administration</span>
