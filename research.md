@@ -8,7 +8,7 @@ sitemap:    false
 * this list will be replaced by the toc
 {:toc .large-only}
 
-Before listing the experiences, talk about open-source, making science transparent and accessible. Alos perhaps highlight your publication! And a note saying See you at SfN 2024!
+Before listing the experiences, talk about open-source, making science transparent and accessible. Talk about what topics and questions I'm interested in exploring. Also perhaps highlight your publication! And a note saying See you at SfN 2024!
 
 ## [Undergraduate research with Dr. Brad Voytek]({{ site.baseurl }}/research/voytek)
 <em>University of Califronia, San Diego</em>
@@ -23,9 +23,8 @@ processing
 ## [Undergraduate research with Dr. Kay Tye]({{ site.baseurl }}/research/tye)
 <em>Salk Institute for Biological Studies</em>
 {:.faded}
-Application of multidisciplinary approaches (optogenetics, immunohistochemistry, pose estimation) to study the
-time course of social isolation and dopamine dynamics in the medial prefrontal cortex during social contact
-following isolation. 
+Applied multidisciplinary approaches such as optogenetics, immunohistochemistry and pose estimation to study how chronic and acute social isolation 
+differentially modulate behavior and to explore dopamine dynamics in the medial prefrontal cortex during social contact following isolation. 
 <br>
 <span style="color:#833F51; font-style:italic; font-weight:700">Keywords: </span>
 <span style="color:#AAA7A6; font-style:italic;">systems neuroscience, social isolation, dopamine</span>
@@ -43,7 +42,6 @@ Development of a pipeline to analyze cortex-wide in-vivo two-photon calcium imag
 ## [Undergraduate research with Dr. Olivier George]({{ site.baseurl }}/research/george)
 <em>University of Califronia, San Diego</em>
 {:.faded}
-ergraduate Researcher - Advisor: Dr. Olivier George
 Characterization of cocaine or oxycodone addiction-like behavior, and analysis of nicotinic activation of brain
 regions in rats.
 <br>
