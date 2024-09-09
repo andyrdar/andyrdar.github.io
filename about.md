@@ -40,10 +40,10 @@ Growing up in southern Mexico I was surrounded by nature and culture,
 My views on the value of diversity in science have been shaped by a combination of personal experiences, observations of global disparities, and active efforts to bridge gaps in knowledge and opportunities. These experiences fuel my commitment to promoting diversity and inclusion in science.
 
 <div style="display: flex; align-items: center;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="https://andyrdar.github.io/assets/img/blog/ardargence_hs2.JPG" alt="Andrea Ruiz D'Argence" style="max-width: 80%;">
+  </div>
   <div style="flex: 1;">
     <p>Add more information about my backgroun, life in mexico, career goals, etc.</p>
   </div>
-  <div style="flex: 0 0 300px; margin-left: 20px;">
-    <img src="https://andyrdar.github.io/assets/img/blog/ardargence_hs2.jpg" alt="Andrea Ruiz D'Argence" style="max-width: 80%;">
-  </div>
-</div>
+</div> 
