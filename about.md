@@ -31,7 +31,7 @@ redirect_from:
   </div>
 </div>
 
-As of now, I am majoring in cognitive and behavioral neuroscience at the <a href="https://cogsci.ucsd.edu/undergraduates/major/cbn.html" target="_blank" rel="noopener noreferrer">University of California, San Diego<a> and studying non-oscillatory neural activity as a research assistant at lab of Dr. Brad Voytek. <a href="https://voyteklab.com/" target="_blank" rel="noopener noreferrer">
+As of now, I am a senior at the <a href="https://cogsci.ucsd.edu/undergraduates/major/cbn.html" target="_blank" rel="noopener noreferrer">University of California, San Diego</a> majoring in cognitive and behavioral neuroscience and studying non-oscillatory neural activity as a research assistant in the lab of <a href="https://voyteklab.com/" target="_blank" rel="noopener noreferrer"> Dr. Brad Voytek </a>.
 
 Growing up in southern Mexico I was surrounded by nature and culture, 
 
