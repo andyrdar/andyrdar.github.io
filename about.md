@@ -16,13 +16,13 @@ redirect_from:
   <br>computational neuroscientist || science communicator || researcher || aspiring poet <br>
 </p>
 
-<p style="color: #833F51; font-weight:bold">**Hi, I'm Andrea!</p>
+<p style="color: #833F51; font-weight:bold; font-size:20">Hi, I'm Andrea!</p>
 
 <!--author-->
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <p>My professional aspirations are pursuing a doctoral study in cognitive computational neuroscience to further create visual cortical prosthetics that will aid in <b>vision restoration.</b></p>
+    <p>My professional aspirations are pursuing a doctoral study in cognitive computational neuroscience to further create <b>visual cortical prosthetics that will aid in vision restoration.</b></p>
     
     <p>How does the brain encode what we see? Can we reverse-engineer this process to evoke images through electrical stimulation? I am fascinated by how cognition is shaped by interactions between neural circuits, specifically by how electrophysiological signals relating to cognitive processes can inform how these interactions occur at the circuit-level.</p>
   </div>
@@ -44,6 +44,6 @@ My views on the value of diversity in science have been shaped by a combination 
     <img src="https://andyrdar.github.io/assets/img/blog/ardargence_hs2.JPG" alt="Andrea Ruiz D'Argence" style="max-width: 80%;">
   </div>
   <div style="flex: 1;">
-    <p>Add more information about my backgroun, life in mexico, career goals, etc.</p>
+    <p>Add more information about my background, life in mexico, career goals, etc.</p>
   </div>
 </div> 

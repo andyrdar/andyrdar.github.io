@@ -8,13 +8,20 @@ sitemap:    false
 * this list will be replaced by the toc
 {:toc .large-only}
 
-Before listing the experiences, talk about open-source, making science transparent and accessible. Talk about what topics and questions I'm interested in exploring. Also perhaps highlight your publication! And a note saying See you at SfN 2024!
+<p style="color: #833F51; font-weight:bold; font-size:20">Hold your breath!</p>
+I’m excited to announce that I will be presenting a poster at [Society for Neuroscience 2024](https://www.sfn.org/) on the project I have been working on these past few years at the Voytek Lab! If you’re going to the conference in Chicago, I would love to meet and talk science!<br>
+&ensp;<b> Abstract Title:</b> Stimulus-evoked changes in aperiodic electrophysiological activity in macaque visual cortex (posterboard #AA10)
+&ensp;<b> Session Title:</b> Computational Tools: Analytical I
+&ensp;<b> Presentation Time:</b> Mon., Oct. 7, 2024 1 - 2 p.m.
+<hr class="solid" style="color: #8f7272;">
+
+My past research experiences have cemented my love for science and guided my trajectory to ask the questions I’m interested in answering today. <b> How does the brain encode what we see? Can we reverse-engineer this process to evoke images through electrical stimulation? </b> I am fascinated by how cognition is shaped by interactions between neural circuits, specifically by how electrophysiological signals relating to cognitive processes can inform how these interactions occur at the circuit-level. Learn more about how each experience has defined me as a scientist below.
+
 
 ## [Undergraduate research with Dr. Brad Voytek]({{ site.baseurl }}/research/voytek)
 <em>University of Califronia, San Diego</em>
 {:.faded}
-Waveform analysis of open-source electrophysiological recordings to decode the neural mechanisms of visual
-processing
+Analyzed open-source electrophysiological recordings of waveform features to decode the neural mechanisms of visual processing. Applied cutting-edge, time resolved spectral parameterization to study the temporal representation of sensory information in neural activity.
 <br>
 <span style="color:#833F51; font-style:italic;  font-weight:700">Keywords: </span>
 <span style="color:#AAA7A6; font-style:italic;">electrophysiology, neural oscillations, vision</span>
@@ -33,7 +40,7 @@ differentially modulate behavior and to explore dopamine dynamics in the medial 
 ## [Summer internship with Dr. Mary Teena Joy]({{ site.baseurl }}/research/joy)
 <em>The Jackson Laboratory</em>
 {:.faded}
-Development of a pipeline to analyze cortex-wide in-vivo two-photon calcium imaging from a motor task in mice. 
+Developed a pipeline to analyze cortex-wide in-vivo two-photon calcium imaging from a motor task in mice. Benchmarked Open-Source computational toolboxes for calcium imaging recordings to determine time-locked neuronal activity and task related changes in fluorescence.
 <br>
 <span style="color:#833F51; font-style:italic; font-weight:700">Keywords: </span>
 <span style="color:#AAA7A6; font-style:italic;">stroke, motor control, neural circuits</span>
@@ -42,8 +49,7 @@ Development of a pipeline to analyze cortex-wide in-vivo two-photon calcium imag
 ## [Undergraduate research with Dr. Olivier George]({{ site.baseurl }}/research/george)
 <em>University of Califronia, San Diego</em>
 {:.faded}
-Characterization of cocaine or oxycodone addiction-like behavior, and analysis of nicotinic activation of brain
-regions in rats.
+Analyzed FOS immunihistochemistry activation following acute nicotine intake in nicotine self-administering animals. Characterized cocaine or oxycodone addiction-like behavior to identify the neurocircuitry meddiating the effects of drug addiction.
 <br>
 <span style="color:#833F51; font-style:italic; font-weight:700">Keywords: </span>
 <span style="color:#AAA7A6; font-style:italic;">addiction, behavior, self-administration</span>

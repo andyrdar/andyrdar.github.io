@@ -10,7 +10,7 @@ slug: outreach
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Does this short description actually shows?
+  Before listing the experiences, talk about open-source, making science transparent and accessible. Talk about what topics and questions I'm interested in exploring. Also perhaps highlight your publication! And a note saying See you at SfN 2024!
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
