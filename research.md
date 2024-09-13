@@ -8,13 +8,14 @@ sitemap:    false
 * this list will be replaced by the toc
 {:toc .large-only}
 
-<p style="color: #833F51; font-weight:bold; font-size:28">Hold your breath!</p>
-I’m excited to announce that I will be presenting a poster at [Society for Neuroscience 2024](https://www.sfn.org/) on the project I've been working on at the Voytek Lab! If you’re going to the conference, I would love to meet and talk science!
+<a style="color: #833F51; font-weight:bold; font-size:20">Hold your breath!</a>
+<p>I’m excited to announce that I will be presenting a poster at <b>[Society for Neuroscience 2024](https://www.sfn.org/)</b> on the project I've been working on at the Voytek Lab! If you’re going to the conference, I would love to meet and talk science!
 <dl>
 <dd><b> Abstract Title:</b> Stimulus-evoked changes in aperiodic electrophysiological activity in macaque visual cortex (posterboard #AA10)</dd>
 <dd><b> Session Title:</b> Computational Tools: Analytical I</dd>
 <dd><b> Presentation Time:</b> Mon., Oct. 7, 2024 1 - 2 p.m.</dd>
 </dl>
+</p>
 <hr class="solid" style="color: #8f7272;">
 
 My past research experiences have cemented my love for science and guided my trajectory to ask the [questions I’m interested in answering today.]({{ site.baseurl }}/about/) Learn more about how each experience has defined me as a scientist below.
