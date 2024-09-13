@@ -9,7 +9,7 @@ sitemap:    false
 {:toc .large-only}
 
 <a style="color: #833F51; font-weight:bold; font-size:20">Hold your breath!</a>
-<p>I’m excited to announce that I will be presenting a poster at <b>[Society for Neuroscience 2024](https://www.sfn.org/)</b> on the project I've been working on at the Voytek Lab! If you’re going to the conference, I would love to meet and talk science!
+<p>I’m excited to announce that I will be presenting a poster at <a href="https://www.sfn.org/" target="_blank" rel="noopener noreferrer" style='font-weight:bold'> Society for Neuroscience 2024</a> on the project I've been working on at the Voytek Lab. If you’re going to the conference, I would love to meet and talk science!
 <dl>
 <dd><b> Abstract Title:</b> Stimulus-evoked changes in aperiodic electrophysiological activity in macaque visual cortex (posterboard #AA10)</dd>
 <dd><b> Session Title:</b> Computational Tools: Analytical I</dd>
