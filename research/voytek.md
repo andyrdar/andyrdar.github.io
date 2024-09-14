@@ -12,12 +12,10 @@ sitemap: false
 <span style="color:#833F51; font-style:italic;  font-weight:700">Keywords: </span>
 <span style="color:#AAA7A6; font-style:italic;">electrophysiology, neural oscillations, vision</span>
 
-
-<br>
-<p style="text-align:center;"><b>Lab website: </b><a href="https://voyteklab.com" target="_blank" rel="noopener noreferrer">Voytek Lab</a> &emsp;<b>Direct mentor: </b><a href="https://voyteklab.com/members#:~:text=of%20electrophysiological%20recordings.-,PhD%20Student,-Michael%20(MJ)%20Preston" target="_blank" rel="noopener noreferrer">Michael Preston </a></p>
+<p style="text-align:center;"><strong>Lab website: </strong><a href="https://voyteklab.com" target="_blank" rel="noopener noreferrer">Voytek Lab</a> &emsp;<strong>Direct mentor: </strong><a href="https://voyteklab.com/members#:~:text=of%20electrophysiological%20recordings.-,PhD%20Student,-Michael%20(MJ)%20Preston" target="_blank" rel="noopener noreferrer">Michael Preston </a></p>
 <br><br>
 
-<dt><b>Questions we aim to answer</b></dt>
+<dt><strong>Questions we aim to answer</strong></dt>
 <ul>
 <li>Given what we know about the computational properties of neurons and neural systems, how can neural systems interact to give rise to cognitive phenomena we equate with vision and sensory processing?</li>
 <li>Can we better construct an understanding of sensory processing using models anatomically similar to humans such as non-human primates?</li>
@@ -26,7 +24,7 @@ sitemap: false
 <br>
 
 
-<dt><b>What I did</b></dt>
+<dt><strong>What I did</strong></dt>
 <ul>
 <li>Make use of publicly available brain data to investigate the cellular underpinnings of aggregated neural population activity (LFPs)</li>
 <li>Measured and quantified neural oscillations in both time and frecuency domains</li>
@@ -37,7 +35,7 @@ sitemap: false
 <br>
 
 
-<dt><b>Skills I developed</b></dt>
+<dt><strong>Skills I developed</strong></dt>
 <ul>
 <li>Proficiency in python</li>
 <li>Working understanding of digital signal procesing </li>
@@ -48,11 +46,11 @@ Use of data science and linear algebra approaches to aliress research questions
 <br>
 
 
-<dt><b>Defining moments</b></dt>
+<dt><strong>Defining moments</strong></dt>
 <ul>
-<li>Since my coding experience was minimal and I had no experience at all working in Python or analyzing neural data prior to joinning the lab, I spent the summer of my freshman year of college <b>independently learning</b> how to implement the computational tools used in the lab into my analysis</li>
+<li>Since my coding experience was minimal and I had no experience at all working in Python or analyzing neural data prior to joinning the lab, I spent the summer of my freshman year of college <strong>independently learning</strong> how to implement the computational tools used in the lab into my analysis</li>
 <li>The collaborative environment at the Voytek Lab and the use of creative statistical and data science approaches to tackle research questions motivated how I want to approach my own questions in science using translational techniques</li>
-<li>Learning in an environment where open science is encouraged alongside science communication, I now feel more <b>comfortable talking about my projects and expressing my ideas to different audiences</b></li>
-<li>Presenting my research to varying public and in different formats has made me think critically on the why’s and how’s of a research project, I have also practiced these skills specifically in the Voytek Lab by <b>writing grants and research proposals such as in the <a  href="https://www.nsfgrfp.org/" target="_blank" rel="noopener noreferrer">NSF GRFP application</a></b></li>
-<li>Joining the Voytek lab was the breaking point in helping shape my desire to <b>pursue research in computational neuroscience</b>, while my current project in the lab ignited my passion for research in <b>cognition and visual preception</b></li>
+<li>Learning in an environment where open science is encouraged alongside science communication, I now feel more <strong>comfortable talking about my projects and expressing my ideas to different audiences</strong></li>
+<li>Presenting my research to varying public and in different formats has made me think critically on the why’s and how’s of a research project, I have also practiced these skills specifically in the Voytek Lab by <strong>writing grants and research proposals such as in the <a  href="https://www.nsfgrfp.org/" target="_blank" rel="noopener noreferrer">NSF GRFP application</a></strong></li>
+<li>Joining the Voytek lab was the breaking point in helping shape my desire to <strong>pursue research in computational neuroscience</strong>, while my current project in the lab ignited my passion for research in <strong>cognition and visual preception</strong></li>
 </ul>
