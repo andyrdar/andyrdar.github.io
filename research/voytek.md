@@ -48,9 +48,9 @@ Use of data science and linear algebra approaches to aliress research questions
 
 <dt><strong>Defining moments</strong></dt>
 <ul>
-<li>Since my coding experience was minimal and I had no experience at all working in Python or analyzing neural data prior to joinning the lab, I spent the summer of my freshman year of college <strong>independently learning</strong> how to implement the computational tools used in the lab into my analysis</li>
+<li>Since my coding experience was minimal and I had no experience at all working in Python or analyzing neural data prior to joinning the lab, I spent the summer of my freshman year of college independently learning how to implement the computational tools used in the lab into my analysis</li>
 <li>The collaborative environment at the Voytek Lab and the use of creative statistical and data science approaches to tackle research questions motivated how I want to approach my own questions in science using translational techniques</li>
-<li>Learning in an environment where open science is encouraged alongside science communication, I now feel more <strong>comfortable talking about my projects and expressing my ideas to different audiences</strong></li>
-<li>Presenting my research to varying public and in different formats has made me think critically on the why’s and how’s of a research project, I have also practiced these skills specifically in the Voytek Lab by <strong>writing grants and research proposals such as in the <a  href="https://www.nsfgrfp.org/" target="_blank" rel="noopener noreferrer">NSF GRFP application</a></strong></li>
-<li>Joining the Voytek lab was the breaking point in helping shape my desire to <strong>pursue research in computational neuroscience</strong>, while my current project in the lab ignited my passion for research in <strong>cognition and visual preception</strong></li>
+<li>Learning in an environment where open science is encouraged alongside science communication, I now feel more comfortable talking about my projects and expressing my ideas to different audiences</li>
+<li>Presenting my research to varying public and in different formats has made me think critically on the why’s and how’s of a research project, I have also practiced these skills specifically in the Voytek Lab by >writing grants and research proposals such as in the <a href="https://www.nsfgrfp.org/" target="_blank" rel="noopener noreferrer">NSF GRFP application</a></li>
+<li>Joining the Voytek lab was the breaking point in helping shape my desire to pursue research in computational neuroscience, while my current project in the lab ignited my passion for research in cognition and visual preception</li>
 </ul>
