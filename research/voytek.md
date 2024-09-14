@@ -14,6 +14,7 @@ sitemap: false
 
 <p style="text-align:center;"><strong>Lab website: </strong><a href="https://voyteklab.com" target="_blank" rel="noopener noreferrer">Voytek Lab</a> &emsp;<strong>Direct mentor: </strong><a href="https://voyteklab.com/members#:~:text=of%20electrophysiological%20recordings.-,PhD%20Student,-Michael%20(MJ)%20Preston" target="_blank" rel="noopener noreferrer">Michael Preston </a></p>
 <br>
+<img alt="Voytek Lab" src="https://andyrdar.github.io/assets/img/blog/voytek_lab.jpg" style="max-width: 100%;" />
 
 <strong>Questions we aim to answer</strong>
 <ul style="padding-left:40px">
@@ -38,9 +39,9 @@ sitemap: false
 <ul style="padding-left:40px">
 <li>Proficiency in python</li>
 <li>Working understanding of digital signal procesing </li>
-<li>working with large open-source datasets </li>
-Analyzing neural time series data
-Use of data science and linear algebra approaches to aliress research questions
+<li>Working with large open-source datasets </li>
+<li>Analyzing neural time series data</li>
+<li>Use of data science and linear algebra approaches to address research questions</li>
 </ul>
 <br>
 
@@ -49,7 +50,7 @@ Use of data science and linear algebra approaches to aliress research questions
 <ul style="padding-left:40px">
 <li>Since my coding experience was minimal and I had no experience at all working in Python or analyzing neural data prior to joinning the lab, I spent the summer of my freshman year of college <strong>independently learning</strong> how to implement the computational tools used in the lab into my analysis</li>
 <li>The collaborative environment at the Voytek Lab and the use of creative statistical and data science approaches to tackle research questions motivated how I want to approach my own questions in science using translational techniques</li>
-<li>Learning in an environment where open science is encouraged alongside science communication, I now feel more comfortable talking about my projects and expressing my ideas to different audiences</li>
-<li>Presenting my research to varying public and in different formats has made me think critically on the why’s and how’s of a research project, I have also practiced these skills specifically in the Voytek Lab by <strong>writing grants and research proposals such as in the <a href="https://www.nsfgrfp.org/" target="_blank" rel="noopener noreferrer">NSF GRFP application</a></strong></li>
+<li>Learning in an environment where open science is encouraged alongside science communication, I now feel more comfortable <strong>talking about my projects and expressing my ideas to different audiences</strong></li>
+<li>Presenting my research to varying public and in different formats has made me think critically on the why’s and how’s of a research project, I have also practiced these skills specifically in the Voytek Lab by <strong>writing grants and research proposals such as the <a href="https://www.nsfgrfp.org/" target="_blank" rel="noopener noreferrer">NSF GRFP application</a></strong></li>
 <li>Joining the Voytek lab was the breaking point in helping shape <strong>my desire to pursue research in computational neuroscience</strong>, while my current project in the lab ignited my passion for research in <strong>cognition and visual preception</strong></li>
 </ul>
