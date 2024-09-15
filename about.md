@@ -47,5 +47,5 @@ As of now, I am a senior at the <a href="https://cogsci.ucsd.edu/undergraduates/
   </div>
 </div> 
 
- My views on the value of diversity in science have been shaped by a combination of personal experiences, observations of global disparities, and active efforts to bridge gaps in knowledge and opportunities. These experiences fuel my commitment to <strong>promote diversity and inclusion in science</strong>.</p>
+My views on the value of diversity in science have been shaped by a combination of personal experiences, observations of global disparities, and active efforts to bridge gaps in knowledge and opportunities. These experiences fuel my commitment to <strong>promote diversity and inclusion in science</strong>.</p>
 
