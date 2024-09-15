@@ -38,3 +38,8 @@ sitemap: false
 <ul style="padding-left:40px">
 <li>While an enriching experience, since this program was held during the COVID-19 pandemic, every component was moved online. Disappointed and frustrated by the toll the pandemic had taken on my educational opportunities, I discarded computational neuroscience/bioinformatics as an interest to pursue, it wasn’t until I broadened my research experiences (see <a href="https://ardargence.com/research/joy">Joy</a> and <a href="https://ardargence.com/research/voytek">Voytek</a>) that I realized I do find computational neuroscience fascinating from a cognitive/systems/sensory apporach</li>
 </ul>
+
+
+<div class="message" style="text-align: center;">
+  <a href="https://www.enlacejudio.com/2021/06/10/la-asociacion-mexicana-de-amigos-del-instituto-weizman-de-ciencias-entrego-sus-becas-issi-2021/#:~:text=Andrea%20Ruiz%20D%C2%B4Argence%2D%20Prepa%20Tec.%20Campus%20Chiapas" style="font-weight: bold;" class="normal-link">Check out this media publication on the 2021 ISSI Scholarship featuring me! (Spanish)</a>
+</div>
