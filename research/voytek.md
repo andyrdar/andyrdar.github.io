@@ -56,4 +56,4 @@ sitemap: false
 </ul>
 
 <br><br>
-<a href="https://andyrdar.github.io/outreach/" style='color:#833F51; font-weight:bold;'>Check out my project presentation at UCSD's Summer Research Conference 2024!</a>
+<a href="https://andyrdar.github.io/outreach/2024-08-14-src/" style='color:#833F51; font-weight:bold;'>Check out my project presentation at UCSD's Summer Research Conference 2024!</a>

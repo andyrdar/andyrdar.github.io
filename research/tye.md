@@ -51,4 +51,3 @@ sitemap: false
 <li><strong>Writing my first research proposal</strong> at the Tye Lab gave me the building blocks that I use today to stop and carefully think on what are the current gaps in research and how can I build a plan to address them</li>
 <li>I performed my first surgery and familiarized myself with multidisciplinary approaches like optogenetics and performing in vivo electrophysiology, techniques that I now take into account when <strong>reflecting on how to develop a research plan</strong></li>
 </ul>
-attempt
