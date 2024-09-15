@@ -13,6 +13,7 @@ sitemap: false
 <span style="color:#AAA7A6; font-style:italic;">stroke, motor control, neural circuits</span>
 
 <p style="text-align:center;"><strong>Lab website: </strong><a href="https://www.jax.org/research-and-faculty/research-labs/the-joy-lab" target="_blank" rel="noopener noreferrer">Joy Lab</a> &emsp;<strong>Direct mentor: </strong><a href="https://www.jax.org/people/michael-alasoadura" target="_blank" rel="noopener noreferrer">Michael Alasoadura, Ph.D. </a></p>
+<img alt="Joy Lab" src="https://andyrdar.github.io/assets/img/blog/ardargence_joy25px.png" style="max-width: 100%;" />
 <br>
 
 <strong>Questions we aim to answer</strong>
@@ -51,4 +52,3 @@ sitemap: false
 
 <br><br>
 <a href="https://mouseion.jax.org/strp/2764/" style='color:#833F51; font-weight:bold;'>Read the abstract on my research report here!</a>
-<img alt="Joy Lab" src="https://andyrdar.github.io/assets/img/blog/ardargence_joy25px.png" style="max-width: 100%;" />
