@@ -9,14 +9,14 @@ sitemap: false
 <em>September 2022 - June 2023</em>
 {:.faded}
 
+<p style="text-align:center;"><strong>Lab website: </strong><a href="https://www.oliviergeorge.com/" target="_blank" rel="noopener noreferrer">George Lab</a></p>
+
 > <a href="https://doi.org/10.1016/j.neuropharm.2024.109959" style='color:#833F51; font-weight:bold;'>Check out our publication!</a>
 >{:.lead}
 >Shankar K, Bonnet-Zahedi S, Milan K, <strong>D'Argence AR</strong>, Sneddon E, Qiao R, Chonwattangul S, Carrette LLG,
 George O (2024). <em>Acute nicotine activates orectic and inhibits anorectic brain regions in rats exposed to chronic
 nicotine</em>. Neuropharmacology, 253, 109959. doi: https://doi.org/10.1016/j.neuropharm.2024.109959
 >{:.faded}
-
-<p style="text-align:center;"><strong>Lab website: </strong><a href="https://www.oliviergeorge.com/" target="_blank" rel="noopener noreferrer">George Lab</a></p>
 
 <strong>Questions we aim to answer</strong>
 <ul style="padding-left:40px">

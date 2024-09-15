@@ -36,5 +36,5 @@ sitemap: false
 
 <strong>Defining moments</strong>
 <ul style="padding-left:40px">
-<li>While an enriching experience, since this program was held during the COVID-19 pandemic, every component was moved online. Disappointed and frustrated by the toll the pandemic had taken on my educational opportunities, I discarded computational neuroscience/bioinformatics as an interest to pursue, it wasn’t until I broadened my research experiences (see [Joy]({{ site.baseurl }}/research/joy) and [Voytek]({{ site.baseurl }}/research/voytek)) that I realized I do find computational neuroscience fascinating from a cognitive/systems/sensory apporach</li>
+<li>While an enriching experience, since this program was held during the COVID-19 pandemic, every component was moved online. Disappointed and frustrated by the toll the pandemic had taken on my educational opportunities, I discarded computational neuroscience/bioinformatics as an interest to pursue, it wasn’t until I broadened my research experiences (see <a href="https://ardargence.com/research/joy">Joy</a> and <a href="https://ardargence.com/research/voytek">Voytek</a>) that I realized I do find computational neuroscience fascinating from a cognitive/systems/sensory apporach</li>
 </ul>
