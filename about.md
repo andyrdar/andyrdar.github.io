@@ -17,6 +17,7 @@ redirect_from:
 </p>
 
 <p style="color: #833F51; font-weight:bold; font-size:20">Hi, I'm Andrea!</p>
+{:.lead}
 
 <!--author-->
 

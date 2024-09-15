@@ -9,8 +9,6 @@ sitemap: false
 <em>September 2022 - June 2023</em>
 {:.faded}
 
-<span style="color:#833F51; font-style:italic; font-weight:700">Keywords: </span>
-<span style="color:#AAA7A6; font-style:italic;">addiction, behavior, self-administration</span>
 > <a href="https://doi.org/10.1016/j.neuropharm.2024.109959" style='color:#833F51; font-weight:bold;'>Check out our publication!</a>
 >{:.lead}
 >Shankar K, Bonnet-Zahedi S, Milan K, <strong>D'Argence AR</strong>, Sneddon E, Qiao R, Chonwattangul S, Carrette LLG,

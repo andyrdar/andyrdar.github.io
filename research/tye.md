@@ -9,9 +9,6 @@ sitemap: false
 <em>October 2023 - July 2024</em>
 {:.faded}
 
-<span style="color:#833F51; font-style:italic; font-weight:700">Keywords: </span>
-<span style="color:#AAA7A6; font-style:italic;">systems neuroscience, social isolation, dopamine</span>
-
 <p style="text-align:center;"><strong>Lab website: </strong><a href="https://tyelab.org/" target="_blank" rel="noopener noreferrer">Tye Lab</a> &emsp;<strong>Direct mentor: </strong><a href="https://tyelab.org/people/#:~:text=Christopher%20Lee%2C%20Ph.D." target="_blank" rel="noopener noreferrer">Christopher Lee, Ph.D. </a></p>
 <br>
 

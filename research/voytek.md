@@ -9,9 +9,6 @@ sitemap: false
 <em>August 2022 - Present</em>
 {:.faded}
 
-<span style="color:#833F51; font-style:italic;  font-weight:700">Keywords: </span>
-<span style="color:#AAA7A6; font-style:italic;">electrophysiology, neural oscillations, vision</span>
-
 <p style="text-align:center;"><strong>Lab website: </strong><a href="https://voyteklab.com" target="_blank" rel="noopener noreferrer">Voytek Lab</a> &emsp;<strong>Direct mentor: </strong><a href="https://voyteklab.com/members#:~:text=of%20electrophysiological%20recordings.-,PhD%20Student,-Michael%20(MJ)%20Preston" target="_blank" rel="noopener noreferrer">Michael Preston </a></p>
 <br>
 <img alt="Voytek Lab" src="https://andyrdar.github.io/assets/img/blog/voytek_lab.jpg" style="max-width: 100%;" />

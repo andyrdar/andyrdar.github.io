@@ -9,9 +9,6 @@ sitemap: false
 <em>May 2023 - August 2023</em>
 {:.faded}
 
-<span style="color:#833F51; font-style:italic; font-weight:700">Keywords: </span>
-<span style="color:#AAA7A6; font-style:italic;">stroke, motor control, neural circuits</span>
-
 <p style="text-align:center;"><strong>Lab website: </strong><a href="https://www.jax.org/research-and-faculty/research-labs/the-joy-lab" target="_blank" rel="noopener noreferrer">Joy Lab</a> &emsp;<strong>Direct mentor: </strong><a href="https://www.jax.org/people/michael-alasoadura" target="_blank" rel="noopener noreferrer">Michael Alasoadura, Ph.D. </a></p>
 <img alt="Joy Lab" src="https://andyrdar.github.io/assets/img/blog/ardargence_joy25px.png" style="max-width: 100%;" />
 <br>
