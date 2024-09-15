@@ -9,6 +9,7 @@ sitemap:    false
 {:toc .large-only}
 
 <a style="color: #833F51; font-weight:bold; font-size:20">Hold your breath!</a>
+{:.lead}
 <p>I’m excited to announce that I will be presenting a poster at <a href="https://www.sfn.org/" target="_blank" rel="noopener noreferrer" style='font-weight:bold'> Society for Neuroscience 2024</a> on the project I've been working on at the Voytek Lab. If you’re going to the conference, I would love to meet and talk science!
 <dl>
 <dd><b> Abstract Title:</b> Stimulus-evoked changes in aperiodic electrophysiological activity in macaque visual cortex (posterboard #AA10)</dd>
@@ -52,7 +53,7 @@ Developed a pipeline to analyze cortex-wide in-vivo two-photon calcium imaging f
 ## [Undergraduate research with Dr. Olivier George]({{ site.baseurl }}/research/george)
 <em>University of Califronia, San Diego</em>
 {:.faded}
-Analyzed FOS immunihistochemistry activation following acute nicotine intake in nicotine self-administering animals. Characterized cocaine or oxycodone addiction-like behavior to identify the neurocircuitry meddiating the effects of drug addiction.
+Analyzed neuronal activation following acute nicotine intake in nicotine self-administering animals. Characterized cocaine or oxycodone addiction-like behavior to identify the neurocircuitry meddiating the effects of drug addiction.
 <br>
 <span style="color:#833F51; font-style:italic; font-weight:700">Keywords: </span>
 <span style="color:#AAA7A6; font-style:italic;">addiction, behavior, self-administration</span>

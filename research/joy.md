@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Joy
+title: Summer internship with Dr. Mary Teena Joy
 # <!-- description: >
 #  Not necessary. -->
 sitemap: false
@@ -17,7 +17,7 @@ sitemap: false
 
 <strong>Questions we aim to answer</strong>
 <ul style="padding-left:40px">
-<li>How do circuits rewire after a stroke and what are the consequence of these rewiring processes on brain function?</li>
+<li>How do circuits rewire after a stroke and what are the consequences of these rewiring processes on brain function?</li>
 <li>How do cortical neurons remap post injury in areas pertaining to motor planning and execution?</li>
 </ul>
 <br>
@@ -35,7 +35,7 @@ sitemap: false
 
 <strong>Skills I developed</strong>
 <ul style="padding-left:40px">
-<li>Calcium imaging analysis in Suite2p and CaImAn</li>
+<li>Calcium imaging analysis in <a href="https://suite2p.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">Suite2p</a> and <a href="https://github.com/flatironinstitute/CaImAn" target="_blank" rel="noopener noreferrer">CaImAn</a></li>
 <li>Image processing and motion reduction</li>
 <li>Writing academic research reports</li>
 </ul>
@@ -51,3 +51,4 @@ sitemap: false
 
 <br><br>
 <a href="https://mouseion.jax.org/strp/2764/" style='color:#833F51; font-weight:bold;'>Read the abstract on my research report here!</a>
+<img alt="Joy Lab" src="https://andyrdar.github.io/assets/img/blog/ardargence_joy25px.png" style="max-width: 100%;" />
