@@ -43,9 +43,9 @@ As of now, I am a senior at the <a href="https://cogsci.ucsd.edu/undergraduates/
   <div style="flex: 1;">
     <strong>Growing up in southern Mexico I was surrounded by nature and culture, but also huge disparities both educational and economical.</strong>
     
-    <p>My interest in neuroscience began watching TedTalks and YouTube videos about the human brain since my educational background did not cover anything similar to that. At the time, there was no way to study neuroscience at the undergraduate level in Mexico, which led me to search for opportunities abroad. I had no idea people could dedicate their career to research and answering cool, geeky questions, that is not something you hear about in Chiapas (my home state). Still, I decided to pursue a career in that field, not knowing what that career would look like, simply because the more I learned about neuroscience the more fascinated I was.
+    <p>My interest in neuroscience began watching TedTalks and YouTube videos about the human brain since my educational background did not cover anything similar to that. At the time, there was no way to study neuroscience at the undergraduate level in Mexico, which led me to search for opportunities abroad. I had no idea people could dedicate their career to research and answering cool, geeky questions, that is not something you hear about in Chiapas (my home state). Still, I decided to pursue a career in that field, not knowing what that career would look like, simply because the more I learned about neuroscience the more fascinated I was.</p>
   </div>
 </div> 
 
-My views on the value of diversity in science have been shaped by a combination of personal experiences, observations of global disparities, and active efforts to bridge gaps in knowledge and opportunities. These experiences fuel my commitment to <strong>promote diversity and inclusion in science</strong>.</p>
+<p>My views on the value of diversity in science have been shaped by a combination of personal experiences, observations of global disparities, and active efforts to bridge gaps in knowledge and opportunities. These experiences fuel my commitment to <strong>promote diversity and inclusion in science</strong>.</p>
 
