@@ -54,3 +54,6 @@ sitemap: false
 <li>Presenting my research to varying public and in different formats has made me think critically on the why’s and how’s of a research project, I have also practiced these skills specifically in the Voytek Lab by <strong>writing grants and research proposals such as the <a href="https://www.nsfgrfp.org/" target="_blank" rel="noopener noreferrer">NSF GRFP application</a></strong></li>
 <li>Joining the Voytek lab was the breaking point in helping shape <strong>my desire to pursue research in computational neuroscience</strong>, while my current project in the lab ignited my passion for research in <strong>cognition and visual preception</strong></li>
 </ul>
+
+<br><br>
+<a href="https://andyrdar.github.io/outreach/" style='color:#833F51; font-weight:bold;'>Check out my project presentation at UCSD's Summer Research Conference 2024!</a>
