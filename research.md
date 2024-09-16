@@ -53,7 +53,7 @@ Developed a pipeline to analyze cortex-wide in-vivo two-photon calcium imaging f
 ## [Undergraduate research with Dr. Olivier George]({{ site.baseurl }}/research/george)
 <em>University of Califronia, San Diego</em>
 {:.faded}
-Analyzed neuronal activation following acute nicotine intake in nicotine self-administering animals. Characterized cocaine or oxycodone addiction-like behavior to identify the neurocircuitry meddiating the effects of drug addiction.
+Analyzed neuronal activation following acute nicotine intake in nicotine self-administering animals. Characterized cocaine or oxycodone addiction-like behavior to identify the neurocircuitry mediating the effects of drug addiction.
 <br>
 <span style="color:#833F51; font-style:italic; font-weight:700">Keywords: </span>
 <span style="color:#AAA7A6; font-style:italic;">addiction, behavior, self-administration</span>
