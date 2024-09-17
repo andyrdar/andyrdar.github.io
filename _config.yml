@@ -36,7 +36,7 @@ keywords:              [neuroscience, science, andrea, ruiz, dargence]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/blog/ardargence_hs.jpg
+logo:                  /assets/img/blog/ard_profpic.jpg
 favicon:               /assets/icons/ardargence_logo_v2.ico
 
 # This should be the same author as first entry in `_data/authors.yml`.
