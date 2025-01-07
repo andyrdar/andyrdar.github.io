@@ -13,6 +13,10 @@ sitemap: false
 <br>
 <img alt="Voytek Lab" src="https://andyrdar.github.io/assets/img/blog/voytek_lab.jpg" style="max-width: 100%;" />
 
+<div class="message" style="text-align: center;">
+  I am currently working on my Honors Thesis under the guidance of <a href="https://voyteklab.com/members#:~:text=Principal%20Investigator%0ABradley%20Voytek" style="font-weight: bold;" class="normal-link">Dr. Brad Voytek</a> and <a href="https://chriscaz.com/" style="font-weight: bold;" class="normal-link">Dr. Christian Cazares</a>.
+</div>
+
 <strong>Questions we aim to answer</strong>
 <ul style="padding-left:40px">
 <li>Given what we know about the computational properties of neurons and neural systems, how can neural systems interact to give rise to cognitive phenomena we equate with vision and sensory processing?</li>

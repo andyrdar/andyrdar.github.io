@@ -7,7 +7,7 @@ sitemap:    false
 
 * this list will be replaced by the toc
 {:toc .large-only}
-
+<!--
 <a style="color: #833F51; font-weight:bold; font-size:20">Hold your breath!</a>
 {:.lead}
 <p>I’m excited to announce that I will be presenting a poster at <a href="https://www.sfn.org/" target="_blank" rel="noopener noreferrer" style='font-weight:bold'> Society for Neuroscience 2024</a> on the project I've been working on at the Voytek Lab. If you’re going to the conference, I would love to meet and talk science!
@@ -18,6 +18,7 @@ sitemap:    false
 </dl>
 </p>
 <hr class="solid" style="color: #8f7272;">
+-->
 
 My past research experiences have cemented my love for science and guided my trajectory to ask the [questions I’m interested in answering today.]({{ site.baseurl }}/about/) Learn more about how each experience has defined me as a scientist below.
 
