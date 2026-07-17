@@ -24,7 +24,7 @@ redirect_from:
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>How does the brain encode what we see? Can we reverse-engineer this process to evoke images through electrical stimulation? I am fascinated by how cognition is shaped by interactions between neural circuits, specifically by how electrophysiological signals relating to cognitive processes can inform how these interactions occur at the circuit-level.</p>
-    <br>
+    <br><br>
     <strong> Where am I today?</strong><br>
     Currently, I am a PhD student at <a href="https://neurograd.ucsd.edu/"  target="_blank" rel="noopener noreferrer">UCSD's Neuroscience Graduate Program</a> studying synaptic diversity under the supervision of <a href="https://www.maximovlab.org/" target="_blank" rel="noopener noreferrer">Dr. Anton Maximov</a> at <a href="https://www.scripps.edu/" target="_blank" rel="noopener noreferrer">Scripps Research</a>.
 
