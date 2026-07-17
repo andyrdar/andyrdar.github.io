@@ -34,12 +34,6 @@ redirect_from:
   </div>
 </div>
 <br>
-<!--
-As of now, I am a senior at the <a href="https://cogsci.ucsd.edu/undergraduates/major/cbn.html" target="_blank" rel="noopener noreferrer">University of California, San Diego</a> majoring in cognitive and behavioral neuroscience and studying non-oscillatory neural activity as a research assistant in the lab of <a href="https://voyteklab.com/" target="_blank" rel="noopener noreferrer"> Dr. Brad Voytek </a>.
-<strong>We analyze using patterns and decide using emotions.</strong> 
-<p>My professional aspirations are pursuing a doctoral study in cognitive computational neuroscience to further create <b>visual cortical prosthetics that will aid in vision restoration.</b></p>
-My interest in neuroscience began watching TedTalks and YouTube videos about the human brain since my educational background did not cover anything similar to that.
--->
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
@@ -53,3 +47,8 @@ My interest in neuroscience began watching TedTalks and YouTube videos about the
 
 <p>My views on the value of diversity in science have been shaped by a combination of personal experiences, observations of global disparities, and active efforts to bridge gaps in knowledge and opportunities. These experiences fuel my commitment to <strong>promote diversity and inclusion in science</strong>.</p>
 
+<!-- As of now, I am a senior at the <a href="https://cogsci.ucsd.edu/undergraduates/major/cbn.html" target="_blank" rel="noopener noreferrer">University of California, San Diego</a> majoring in cognitive and behavioral neuroscience and studying non-oscillatory neural activity as a research assistant in the lab of <a href="https://voyteklab.com/" target="_blank" rel="noopener noreferrer"> Dr. Brad Voytek </a>.
+<strong>We analyze using patterns and decide using emotions.</strong> 
+<p>My professional aspirations are pursuing a doctoral study in cognitive computational neuroscience to further create <b>visual cortical prosthetics that will aid in vision restoration.</b></p>
+My interest in neuroscience began watching TedTalks and YouTube videos about the human brain since my educational background did not cover anything similar to that.
+-->
