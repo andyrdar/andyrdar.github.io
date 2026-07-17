@@ -26,14 +26,14 @@ redirect_from:
     <p>How does the brain encode what we see? Can we reverse-engineer this process to evoke images through electrical stimulation? I am fascinated by how cognition is shaped by interactions between neural circuits, specifically by how electrophysiological signals relating to cognitive processes can inform how these interactions occur at the circuit-level.</p>
     <br>
     <strong> Where am I today?</strong><br>
-    <p>Currently, I am a PhD student at <a href="https://neurograd.ucsd.edu/"  target="_blank" rel="noopener noreferrer">UCSD's Neuroscience Graduate Program</a> studying synaptic diversity under the supervision of <a href="https://www.maximovlab.org/" target="_blank" rel="noopener noreferrer">Dr. Anton Maximov</a> at <a href="https://www.scripps.edu/" target="_blank" rel="noopener noreferrer">Scripps Research</a>.</p>
+    Currently, I am a PhD student at <a href="https://neurograd.ucsd.edu/"  target="_blank" rel="noopener noreferrer">UCSD's Neuroscience Graduate Program</a> studying synaptic diversity under the supervision of <a href="https://www.maximovlab.org/" target="_blank" rel="noopener noreferrer">Dr. Anton Maximov</a> at <a href="https://www.scripps.edu/" target="_blank" rel="noopener noreferrer">Scripps Research</a>.
 
   </div>
   <div style="flex: 0 0 300px; margin-left: 20px;">
     <img src="https://andyrdar.github.io/assets/img/blog/ardargence_ard2x.jpg" alt="Andrea Ruiz D'Argence" style="max-width: 80%;">
   </div>
 </div>
-
+<br>
 <!--
 As of now, I am a senior at the <a href="https://cogsci.ucsd.edu/undergraduates/major/cbn.html" target="_blank" rel="noopener noreferrer">University of California, San Diego</a> majoring in cognitive and behavioral neuroscience and studying non-oscillatory neural activity as a research assistant in the lab of <a href="https://voyteklab.com/" target="_blank" rel="noopener noreferrer"> Dr. Brad Voytek </a>.
 <strong>We analyze using patterns and decide using emotions.</strong> 
