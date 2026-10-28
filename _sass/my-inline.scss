@@ -2,3 +2,19 @@
 // .sidebar a {
 //   text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
 // }
+
+// Text on your pages
+.content {
+  font-size: 1.1rem;
+}
+
+// Sidebar: your name/title
+.sidebar-about h2,
+.sidebar-about .h2 {
+  font-size: 1.6rem;
+}
+
+// Sidebar: the menu links
+.sidebar-nav-item {
+  font-size: 1.1rem;
+}
